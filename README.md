@@ -1,10 +1,4 @@
 ### Hi there 👋 I'm Zachary
-
-  - 🔭 I’m currently working on Notion API & blockchain tutorials to bridge the gap in knowledge of the underlying technologies
-  - 🌱 I’m currently learning React Native and Swift
-  - 👯 I’m looking to collaborate on Art Technology
-  - 🤔 I’m looking for help with TypeScript
-  - 💬 Ask me about The 4x4x48 Challenge
   - 📫 How to reach me: [E-mail](zachary.a.j23@gmail.com)
 
 <!--
