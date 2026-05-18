@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Zachary
-  - 📫 How to reach me: zachary.a.j23@gmail.com
+  - 📫 How to reach me: zachary@averything.ai
 
 <!--
 **zacharyajackson/zacharyajackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
