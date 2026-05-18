@@ -21,19 +21,23 @@ Most of the AI hype centers on knowledge work, but the real demand is in *coordi
 
 ## Stack I work in
 
-**AI & LLMs** — Anthropic Claude (tool use, Assistants API), OpenAI (Assistants, embeddings, vector stores), Google Gemini. RAG pipelines, structured extraction, agent orchestration, prompt design.
+**AI & LLMs** — Anthropic Claude (tool use, Assistants API), OpenAI (Assistants, embeddings, vector stores), Google Gemini, Vercel AI SDK + AI Gateway. RAG pipelines, structured extraction, agent orchestration, prompt design.
 
 **Model training & inference** — PyTorch, HuggingFace Transformers, LLaMA-Factory, PEFT, TRL, DeepSpeed, Accelerate, bitsandbytes, vLLM (high-throughput inference), Weights & Biases.
 
+**Vector retrieval** — Qdrant, OpenAI embeddings, Upstash, custom semantic search with synonym expansion and chunking strategies.
+
 **Languages** — TypeScript, Python, JavaScript.
 
-**Frontend** — Next.js (App Router), React, Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, TanStack Query, React Hook Form, Zod, Nivo, Recharts, dnd-kit.
+**Frontend (web)** — Next.js (App Router), React, Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, TanStack Query / Table, React Hook Form, Zod, Nivo, Recharts, dnd-kit.
+
+**Mobile** — React Native, Expo (router, secure-store, image-picker, location, video, task-manager), React Native Firebase, Stripe React Native, React Native Maps.
 
 **Backend** — Node.js, Express, Hono, Flask.
 
-**Databases & storage** — Convex, Supabase, Postgres + Prisma, Neon (serverless Postgres), MongoDB, Firebase Firestore, Redis, Kinetica (geospatial), AWS S3.
+**Databases & storage** — Convex, Supabase, Postgres + Prisma, Neon (serverless), MongoDB, Firebase Firestore, Upstash Redis, Kinetica (geospatial), AWS S3, Cloudflare R2.
 
-**Voice, telephony & messaging** — Twilio, SignalWire, Retell, Cal.com (scheduling), Slack Web API, Resend, Nodemailer.
+**Voice, telephony & messaging** — Twilio, SignalWire, Retell, Text Request (SMS), Cal.com (scheduling), Slack Web API, Resend, Nodemailer.
 
 **Workflow orchestration** — n8n, custom cron and queue patterns.
 
@@ -41,11 +45,11 @@ Most of the AI hype centers on knowledge work, but the real demand is in *coordi
 
 **Maps & GIS** — Mapbox GL, Google Maps, OpenStreetMap (Overpass), Nominatim, WKT / GeoJSON tooling.
 
-**Documents** — DocuSign, @react-pdf/renderer, html2pdf, papaparse / csv-parse.
+**Content & documents** — Contentful (headless CMS), DocuSign, @react-pdf/renderer, html2pdf, BeautifulSoup, papaparse / csv-parse.
 
-**Deploy & infra** — Vercel, Railway, AWS (S3, Lambda), Docker, ngrok for local webhooks.
+**Deploy & infra** — Vercel, Railway, AWS (S3, Lambda), Cloudflare (R2), Docker, ngrok for local webhook tunneling.
 
-**Testing & quality** — Jest, Playwright, Vitest, React Testing Library, Puppeteer. Zod schemas at every boundary, structured logging, idempotency-by-default for webhook ingest.
+**Testing & quality** — Jest, Playwright, Vitest, Cypress, React Testing Library, Puppeteer. Zod schemas at every boundary, structured logging, idempotency-by-default for webhook ingest.
 
 ## Get in touch
 
