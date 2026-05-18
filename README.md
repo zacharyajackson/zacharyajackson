@@ -21,27 +21,31 @@ Most of the AI hype centers on knowledge work, but the real demand is in *coordi
 
 ## Stack I work in
 
-**AI & LLMs** — Anthropic Claude (incl. tool use & Assistants), OpenAI (Assistants API, embeddings, vector stores), Google Gemini. RAG pipelines, structured extraction, agent orchestration.
+**AI & LLMs** — Anthropic Claude (tool use, Assistants API), OpenAI (Assistants, embeddings, vector stores), Google Gemini. RAG pipelines, structured extraction, agent orchestration, prompt design.
+
+**Model training & inference** — PyTorch, HuggingFace Transformers, LLaMA-Factory, PEFT, TRL, DeepSpeed, Accelerate, bitsandbytes, vLLM (high-throughput inference), Weights & Biases.
 
 **Languages** — TypeScript, Python, JavaScript.
 
-**Frontend** — Next.js (App Router), React, Tailwind CSS, Framer Motion, Radix UI / shadcn.
+**Frontend** — Next.js (App Router), React, Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, TanStack Query, React Hook Form, Zod, Nivo, Recharts, dnd-kit.
 
-**Backend** — Node.js, Express, Flask, Hono.
+**Backend** — Node.js, Express, Hono, Flask.
 
-**Databases & storage** — Convex, Supabase, Postgres + Prisma, MongoDB, Kinetica (geospatial), AWS S3.
+**Databases & storage** — Convex, Supabase, Postgres + Prisma, Neon (serverless Postgres), MongoDB, Firebase Firestore, Redis, Kinetica (geospatial), AWS S3.
 
-**Voice, telephony & messaging** — Twilio, SignalWire, Retell, Text Request, Slack.
+**Voice, telephony & messaging** — Twilio, SignalWire, Retell, Cal.com (scheduling), Slack Web API, Resend, Nodemailer.
 
 **Workflow orchestration** — n8n, custom cron and queue patterns.
 
-**Auth & payments** — Clerk, NextAuth, Stripe, Authorize.Net, DocuSign.
+**Auth & payments** — Clerk, NextAuth, Firebase Auth, JWT/bcrypt, Stripe, Authorize.Net, DocuSign.
 
-**Maps & GIS** — Mapbox GL, OpenStreetMap (Overpass), Nominatim.
+**Maps & GIS** — Mapbox GL, Google Maps, OpenStreetMap (Overpass), Nominatim, WKT / GeoJSON tooling.
 
-**Deploy** — Vercel, Railway, AWS (S3, Lambda), Docker.
+**Documents** — DocuSign, @react-pdf/renderer, html2pdf, papaparse / csv-parse.
 
-**Observability & data quality** — Zod schemas at every boundary, structured logging, idempotency-by-default for webhook ingest.
+**Deploy & infra** — Vercel, Railway, AWS (S3, Lambda), Docker, ngrok for local webhooks.
+
+**Testing & quality** — Jest, Playwright, Vitest, React Testing Library, Puppeteer. Zod schemas at every boundary, structured logging, idempotency-by-default for webhook ingest.
 
 ## Get in touch
 
