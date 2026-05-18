@@ -42,7 +42,7 @@ Most of the AI hype centers on knowledge work, but the real demand is in *coordi
 | **Backend** | Node.js · Express · Hono · Flask |
 | **Databases & storage** | Convex · Supabase · Postgres + Prisma · Neon · MongoDB · Firebase Firestore · Upstash Redis · Kinetica (geospatial) · AWS S3 · Cloudflare R2 |
 | **Voice, telephony & messaging** | Twilio · SignalWire · Retell · Text Request · Cal.com · Slack Web API · Resend · Nodemailer |
-| **Workflow** | n8n · custom cron + queue patterns |
+| **Workflow & knowledge** | n8n · custom cron + queue patterns · Obsidian (personal knowledge graph) |
 | **Auth & payments** | Clerk · NextAuth · Firebase Auth · JWT / bcrypt · Stripe · Authorize.Net · DocuSign |
 | **Maps & GIS** | Mapbox GL · Google Maps · OpenStreetMap (Overpass) · Nominatim · WKT / GeoJSON |
 | **Content & documents** | Contentful (headless CMS) · DocuSign · @react-pdf/renderer · html2pdf · BeautifulSoup · papaparse / csv-parse |
